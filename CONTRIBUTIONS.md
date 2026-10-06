@@ -5,3 +5,7 @@
 - Created Problems and Users (#1)
 - Created Features (#2)
 - Created Data Model Draft (#4)
+
+### Judd Torres
+- #3 External API
+- #5 Endpoint list
