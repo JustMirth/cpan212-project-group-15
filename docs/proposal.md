@@ -205,5 +205,10 @@ Endpoint list
         DELETE      /api/workouts/:id       Delete user workout regiment    204                     404, 500
         DELETE      /api/exercises/:id      Delete user saved exercises     204                     404, 500
         
-
+Wireframes
+    The wireframes are in order below, starting with the list page (essentially the homepage showing all workouts), detail page (details for a single workout), edit page (the page where you can edit a created workout), and the create page (the page that will be used when first creating a new workout). 
+![List Wireframe](wireframes/listPage.jpg)
+![Detail Wireframe](wireframes/detailPage.jpg)
+![Edit Wireframe](wireframes/editPage.jpg)
+![Create Wireframe](wireframes/createPage.jpg)
 
