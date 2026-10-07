@@ -1,3 +1,5 @@
 # cpan212-project-group-15
 
-This also is filler and needs to be flushed out later
+This is going to be WorkOut App (we are still flushing out name).
+
+Active group members include Mitchell Callaghan (JustMirth) and Judd Lawrence (julato).

@@ -5,6 +5,7 @@
 - Created Problems and Users (#1)
 - Created Features (#2)
 - Created Data Model Draft (#4)
+- Wireframes (#6)
 
 ### Judd Torres
 - #3 External API
