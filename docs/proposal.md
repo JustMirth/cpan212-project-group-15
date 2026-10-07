@@ -204,6 +204,12 @@ Endpoint list
 
         DELETE      /api/workouts/:id       Delete user workout regiment    204                     404, 500
         DELETE      /api/exercises/:id      Delete user saved exercises     204                     404, 500
-        
+
+Team roles (as of right now)
+    who leads the API: Judd
+    Frontend: Mitchell 
+    Database: Joulian
+    repo and pull requests: Mitchell
+
 
 
